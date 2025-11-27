@@ -102,6 +102,7 @@ npm start
 Passwords are saved in their hashed form in the database. Refer to the file below to see how bcrypt is used for hashing.
 
 - password/hashpassword.js
+- The password used for all users in the schema.sql file is **12345**.
 
 ## Features Implemented:
 
